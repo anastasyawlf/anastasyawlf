@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najya Anastasya</h1>
-<h3 align="center">Fresh Graduate of Electrical Engineering who passionate about Backend Development</h3>
+<h3 align="center">Electrical Engineering graduate who passionate about Backend Development</h3>
 
 - 📫 How to reach me **najya.anastasya275@gmail.com**
 
