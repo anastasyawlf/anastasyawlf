@@ -1,4 +1,4 @@
-# hi, i'm najya 👋
+# hi, i'm [tasya](https://anastasyawlf-dev.netlify.app/) 👋
 
 electrical engineer who somehow ended up writing code for a living.
 
